@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Indoor air quality assessment using low-cost sensors, and impact of outdoors"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'As people spend most of their time indoors, it is vital to assess their exposure to air pollutants considering their adverse impacts on human health. The use of low-cost sensors (LCS) for measuring air quality is becoming increasingly important for providing widespread, real-time exposure assessment, particularly in resource-limited settings. As the accuracy of LCS data is influenced by meteorological factors, data correction using co-location with a reference instrument is essential to ensure good quality data. In this study, we collocated these sensors with a Beta Attenuation Monitor (BAM) reference instrument over a two-month period. Analysis of the co-located data revealed that the sensors tend to overestimate PM2.5 concentrations as relative humidity (RH) increases. To remove this effect from the data, multiple linear regression technique was applied to adjust the sensor data for RH effects. Post correction, the sensors demonstrated Mean Absolute Bias (MAB) ranging from 6.8 to 7.2 μg/m3, normalized MAB 7.3–7.5%, Root Mean Squared Error (RMSE) of ~ 11 μg/m3, normalized RMSE of ~ 11%, and a Coefficient of Determination (R2) between 0.917 and 0.937 for PM2.5. To estimate particulate matter exposure in various indoor microenvironments and its relationship with ambient air quality, the sensors were deployed at an outdoor and multiple indoor locations across an academic campus for a semester. We found that air quality in indoor spaces without active emission sources was worse than ambient air quality for half of the times. Indoor air quality in spaces with sources was mostly poorer than the ambient air quality. The ratio of indoor to outdoor PM2.5 was in the range of 0.6 to 1.2, and 1.0 to 1.9 for the indoor spaces without sources and with sources, respectively. Correlation between indoor and ambient air quality was good, with indoor air quality lagging behind ambient conditions by ~ 90 min. However, indoor environments with active emission sources, such as cooking, soldering, and welding, exhibited poor air quality, posing health concerns. This study underscores the importance of accurate air quality data from LCS and highlights the need for effective indoor air quality management, particularly in environments with emission sources.'
+date: 2025-10-30
+venue: 'Air Quality, Atmosphere, and Health (Springer)'
+# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://rdcu.be/eNAdm'
+# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'Dahima, Y., Vaishya, A. Indoor air quality assessment using low-cost sensors, and impact of outdoors. <i>Air Qual Atmos Health<i> (2025). https://doi.org/10.1007/s11869-025-01843-z'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
