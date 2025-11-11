@@ -23,7 +23,7 @@ repository               : "yash-dahima.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yash_5.png"
   name             : "Yash Dahima"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate | Air Quality + Physics + Machine Learning"
