@@ -15,11 +15,13 @@ Education
 * M.Sc. in Physics, St. Xavier's College - Ahmedabad, India, 2020
 * B.Sc. in Physics, The Maharaja Sayajirao University of Baroda, India, 2018
 
+<!--
 Journal Publications & Conference Proceedings
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
 
 Work Experience
 ======
@@ -40,13 +42,15 @@ Skills
 * Team Work & Leadership
 * Effective Communication
 
-
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->  
+
+
 <!--
 Teaching
 ======
