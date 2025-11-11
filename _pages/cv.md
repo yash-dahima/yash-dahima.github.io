@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Physics (with focus on Air Quality), Ahmedabad University, India, 2026 (expected)
+* M.Sc. in Physics, St. Xavier's College - Ahmedabad, India, 2020
+* B.Sc. in Physics, The Maharaja Sayajirao University of Baroda, India, 2018
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Journal Publications & Conference Proceedings
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Work Experience
+======
+* Served as a Teaching Assistant for all semesters from Fall 2021 to Spring 2026 in the BS Physics program at Ahmedabad University (https://ahduni.edu.in/), assisting in the following subjects:
+  * Electromagnetic Theory
+  * Laboratory Physics - Mechanics
+  * Oscillations, Waves & Optics
+  * Atomic & Nuclear Physics
   
+Skills
+======
+* Computational
+  * Python
+  * C++
+  * MATLAB
+  * Linux
+* Critical Thinking
+* Team Work & Leadership
+* Effective Communication
+
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+-->  
+
+Services and leadership at Ahmedabad University
 ======
-* Currently signed in to 43 different slack teams
+* Coordinated "PhD Scholars Talk Series" during the academic years 2023-24 & 2024-25
+* Volunteered for Ahmedabad Grand Challenge Program (AGCP) for three consecutive years: AGCP 2023, AGCP 2024, and AGCP 2025
+* Volunteered for "PhD Scholars Expo - 2024"
+* Managed and hosted "QUEST - Quiz Competition for School Students" on January 6, 2024
+* Volunteered for "National Science Day Celebrations" on March 2, 2024
