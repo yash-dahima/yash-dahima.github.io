@@ -59,7 +59,7 @@ Teaching
   {% endfor %}</ul>
 -->  
 
-Services and leadership at Ahmedabad University
+Services and Leadership at Ahmedabad University
 ======
 * Coordinated "PhD Scholars Talk Series" during the academic years 2023-24 & 2024-25
 * Volunteered for Ahmedabad Grand Challenge Program (AGCP) for three consecutive years: AGCP 2023, AGCP 2024, and AGCP 2025
